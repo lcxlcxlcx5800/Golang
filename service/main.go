@@ -98,7 +98,7 @@ const (
 	PROJECT_ID = "prime-service-203921"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.225.37.162:9200"
+	ES_URL = "http://35.224.249.150:9200"
 
 	// Needs to update this bucket based on your gcs bucket name.
 	BUCKET_NAME = "post-images-203929"
